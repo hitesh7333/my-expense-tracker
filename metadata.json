@@ -1,0 +1,6 @@
+{
+  "name": "My Expense Tracker",
+  "description": "Offline-first personal finance and expense tracker featuring dynamic balance calculation, monthly budgets with warnings, reports and charts, multiple accounts, bills, and PIN security.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
